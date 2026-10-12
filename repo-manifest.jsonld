@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/MyST-Parser/commit/723cffcf84213f0cb58695b27eec9ad72052b53a",
       "git:hexsha": "723cffcf84213f0cb58695b27eec9ad72052b53a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/MyST-Parser/commit/c402055d9ec0e772c558e35ad285c2d2f9b8a4c9",
